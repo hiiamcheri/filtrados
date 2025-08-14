@@ -448,6 +448,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-14 14:42:31 +0000",
       "apple": "2025-08-14 14:40:26 +0000",
+      "bread": "2025-08-14 21:36:49 +0000",
       "cooked_chicken": "2025-08-14 18:58:50 +0000",
       "cooked_mutton": "2025-08-14 15:19:45 +0000",
       "cooked_beef": "2025-08-14 01:38:21 +0000",
@@ -1268,12 +1269,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-08-14 21:12:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-08-14 21:11:59 +0000"
@@ -1283,6 +1278,18 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-14 21:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-14 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-14 21:12:05 +0000"
     },
     "done": true
   },
@@ -1298,9 +1305,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_carrot": "2025-08-14 21:12:01 +0000"
+      "has_azure_bluet": "2025-08-14 21:29:41 +0000"
     },
     "done": true
   },

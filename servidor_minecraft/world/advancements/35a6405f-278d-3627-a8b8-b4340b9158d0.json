@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-08-14 21:00:20 +0000",
       "minecraft:savanna_plateau": "2025-08-14 01:28:44 +0000",
       "minecraft:snowy_slopes": "2025-08-14 20:57:29 +0000",
+      "minecraft:beach": "2025-08-14 21:17:24 +0000",
       "minecraft:river": "2025-08-14 01:19:22 +0000",
       "minecraft:lukewarm_ocean": "2025-08-14 01:21:08 +0000",
       "minecraft:stony_shore": "2025-08-14 01:15:31 +0000",
@@ -1294,7 +1295,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-08-14 19:22:35 +0000"
+      "minecraft:crimson_forest": "2025-08-14 21:33:55 +0000",
+      "minecraft:nether_wastes": "2025-08-14 19:22:35 +0000",
+      "minecraft:soul_sand_valley": "2025-08-14 21:34:05 +0000"
     },
     "done": false
   },
@@ -1907,6 +1910,42 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-08-14 21:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-14 21:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-14 21:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-14 21:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-14 21:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-14 21:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-14 21:35:17 +0000"
     },
     "done": true
   },
