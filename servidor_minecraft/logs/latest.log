@@ -100,3 +100,23 @@
 [21:57:14] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -808.500000, 95.500000, 768.500000]
 [21:58:21] [Server thread/INFO]: [ceboforever: Set the time to 1000]
 [22:04:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-741, y=56, z=847} jd{x=-741, y=57, z=847}
+[22:13:23] [Server thread/INFO]: Villager cmk['Mason'/16370, l='ServerLevel[world]', x=-689.16, y=97.00, z=925.31] died, message: 'Mason was blown up by Creeper'
+[22:13:46] [Server thread/INFO]: ceboforever was doomed to fall by Zombie
+[22:13:56] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -691.500000, 88.500000, 916.500000]
+[22:15:17] [Server thread/INFO]: [ceboforever: Set the time to 1000]
+[22:16:50] [Server thread/INFO]: [ceboforever: Summoned new Villager]
+[22:17:32] [Server thread/INFO]: [ceboforever: Gave 64 [Clay Ball] to ceboforever]
+[22:19:15] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -808.500000, 95.500000, 768.500000]
+[22:20:20] [Server thread/INFO]: ceboforever lost connection: Disconnected
+[22:20:20] [Server thread/INFO]: ceboforever left the game
+[22:20:31] [Server thread/INFO]: Stopping the server
+[22:20:31] [Server thread/INFO]: Stopping server
+[22:20:31] [Server thread/INFO]: Saving players
+[22:20:31] [Server thread/INFO]: Saving worlds
+[22:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:20:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:20:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:20:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:20:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
