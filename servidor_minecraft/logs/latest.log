@@ -1,170 +1,30 @@
-[19:56:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:56:19] [ServerMain/INFO]: Loaded 1290 recipes
-[19:56:19] [ServerMain/INFO]: Loaded 1399 advancements
-[19:56:20] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:56:20] [Server thread/INFO]: Loading properties
-[19:56:20] [Server thread/INFO]: Default game type: SURVIVAL
-[19:56:20] [Server thread/INFO]: Generating keypair
-[19:56:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:56:20] [Server thread/INFO]: Using epoll channel type
-[19:56:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:56:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:56:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:56:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:56:20] [Server thread/INFO]: Preparing level "world"
-[19:56:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:56:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:56:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:56:30] [Server thread/INFO]: Time elapsed: 677 ms
-[19:56:30] [Server thread/INFO]: Done (9.254s)! For help, type "help"
-[19:56:33] [Server thread/INFO]: ceboforever[/100.101.49.9:53038] logged in with entity id 1 at (-519.5882587344468, 50.0, 735.3666540694545)
-[19:56:34] [Server thread/INFO]: ceboforever joined the game
-[19:56:35] [Server thread/INFO]: Mateoo__95[/100.85.150.119:53318] logged in with entity id 77 at (-834.7924759578757, 34.0, 940.9240280296641)
-[19:56:35] [Server thread/INFO]: Mateoo__95 joined the game
-[19:56:36] [Server thread/INFO]: jdbyjennie[/100.111.152.95:52883] logged in with entity id 171 at (-373.56550944202513, 104.0, 774.3639525751195)
-[19:56:36] [Server thread/INFO]: jdbyjennie joined the game
-[19:56:38] [Server thread/INFO]: juanes[/100.93.159.78:65528] logged in with entity id 297 at (-376.69999998807907, 104.0, 776.9151798207009)
-[19:56:38] [Server thread/INFO]: juanes joined the game
-[19:57:37] [Server thread/INFO]: jdbyjennie lost connection: Timed out
-[19:57:37] [Server thread/INFO]: jdbyjennie left the game
-[19:57:37] [Server thread/WARN]: handleDisconnection() called twice
-[19:58:33] [Server thread/INFO]: jdbyjennie[/100.111.152.95:57008] logged in with entity id 1394 at (-372.9156749316447, 104.0, 775.5960990762268)
-[19:58:33] [Server thread/INFO]: jdbyjennie joined the game
-[20:00:24] [Server thread/INFO]: [ceboforever: The difficulty has been set to Hard]
-[20:00:28] [Server thread/WARN]: Mateoo__95 moved too quickly! 9.744284483034448,0.37673561378173304,3.1767119725893735
-[20:01:24] [Server thread/INFO]: juanes was blown up by Creeper
-[20:02:16] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[20:02:16] [Server thread/INFO]: ceboforever left the game
-[20:02:24] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
-[20:02:24] [Server thread/INFO]: jdbyjennie left the game
-[20:02:34] [Server thread/INFO]: juanes lost connection: Disconnected
-[20:02:34] [Server thread/INFO]: juanes left the game
-[20:02:37] [Server thread/INFO]: juanes[/100.93.159.78:49188] logged in with entity id 3897 at (-338.6377293746196, 62.52929421268809, 450.9448590682804)
-[20:02:37] [Server thread/INFO]: juanes joined the game
-[20:02:44] [Server thread/INFO]: jdbyjennie[/100.111.152.95:57040] logged in with entity id 4237 at (-698.3000000119209, 102.5625, 971.6999999880791)
-[20:02:44] [Server thread/INFO]: jdbyjennie joined the game
-[20:04:39] [Server thread/INFO]: ceboforever[/100.101.49.9:53143] logged in with entity id 5417 at (-518.9195999510131, 50.0, 735.3401388655022)
-[20:04:39] [Server thread/INFO]: ceboforever joined the game
-[20:05:47] [Server thread/INFO]: [Not Secure] <Mateoo__95> d
-[20:05:52] [Server thread/INFO]: [Not Secure] <Mateoo__95> ya vengo
-[20:05:54] [Server thread/INFO]: [Not Secure] <ceboforever> por que te salsite?
-[20:05:58] [Server thread/INFO]: [Not Secure] <ceboforever> a ok zunga
-[20:06:01] [Server thread/INFO]: [Not Secure] <Mateoo__95> osea la call ya vengo
-[20:08:34] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[20:08:34] [Server thread/INFO]: ceboforever left the game
-[20:08:42] [Server thread/INFO]: ceboforever[/100.101.49.9:53173] logged in with entity id 8260 at (-522.6999999880791, 44.0, 744.6999999880791)
-[20:08:42] [Server thread/INFO]: ceboforever joined the game
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 6.541361927512412,0.0,-7.958729068529578
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 6.8301138559143055,0.0,-8.233461408109974
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 7.120223762879391,0.0,-8.506911248169786
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 7.41113009826654,0.0,-8.779690379509816
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 7.701883924586127,0.0,-9.052806521856951
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 7.991193934720741,0.0,-9.327533282776244
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 8.277449231765672,0.0,-9.60529010134735
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 8.559296379942566,0.0,-9.887107029613276
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 8.83562601154324,0.0,-10.173699774944225
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 9.105550582647652,0.0,-10.46553568285458
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 9.368381862914475,0.0,-10.76288702323643
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 9.624220718756305,0.0,-11.065544178481218
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 9.873826835617479,0.0,-11.372943221902801
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 10.118487831602124,0.0,-11.684234418055325
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 10.359884623292942,0.0,-11.998315203184234
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 10.599390041027618,0.0,-12.314229632495426
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 10.838114991314455,0.0,-12.631158553682212
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 10.904338943335347,0.0,-12.948405983552902
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 10.929044833901457,0.0,-13.265386869347594
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 10.97715935585893,0.0,-13.581169920118441
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.047876943813321,0.0,-13.894502723616142
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.140740042420475,0.0,-14.203821663147892
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.255498333902892,0.0,-14.507262917736625
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.391973383379991,0.0,-14.802681597258015
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.54993944599903,0.0,-15.087670809945166
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.729009545574513,0.0,-15.359599426791306
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.904338943335347,0.0,-15.615663672439723
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.904338943335347,0.0,-15.852944848338211
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 11.94428943333321,0.0,-16.068487419747612
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 12.020126095328806,0.0,-16.259399303356417
-[20:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 5.873434014005738,0.0,-8.740315529679606
-[20:09:30] [Server thread/WARN]: Oak Boat (vehicle of jdbyjennie) moved too quickly! 6.007727948413617,0.0,-8.873986441859415
-[20:09:30] [Server thread/WARN]: Mateoo__95 moved too quickly! -6.7724546725812615,1.4199999868869781,7.550329555199937
-[20:10:15] [Server thread/INFO]: [Not Secure] <juanes> si
-[20:10:23] [Server thread/INFO]: [Not Secure] <Mateoo__95> si que
-[20:10:58] [Server thread/INFO]: [Not Secure] <ceboforever> que paso
-[20:11:05] [Server thread/INFO]: [Not Secure] <ceboforever> se salieron
-[20:11:14] [Server thread/INFO]: [ceboforever: Saved the game]
-[20:13:30] [Server thread/INFO]: [Not Secure] <jdbyjennie> zzzzzzzzzzzz
-[20:13:32] [Server thread/INFO]: [Not Secure] <juanes> <<<<
-[20:13:35] [Server thread/INFO]: [Not Secure] <juanes> zzzzz
-[20:13:35] [Server thread/INFO]: [Not Secure] <juanes> z
-[20:13:35] [Server thread/INFO]: [Not Secure] <juanes> z
-[20:13:35] [Server thread/INFO]: [Not Secure] <juanes> zz
-[20:13:35] [Server thread/INFO]: [Not Secure] <juanes> z
-[20:13:36] [Server thread/INFO]: [Not Secure] <juanes> zz
-[20:13:36] [Server thread/INFO]: [Not Secure] <juanes> z
-[20:13:36] [Server thread/INFO]: [Not Secure] <juanes> z
-[20:13:36] [Server thread/INFO]: [Not Secure] <juanes> z
-[20:13:42] [Server thread/INFO]: [Not Secure] <ceboforever> por que cortaron?
-[20:13:53] [Server thread/INFO]: [Not Secure] <juanes> se me fue el internet
-[20:13:57] [Server thread/INFO]: [Not Secure] <jdbyjennie> a mi se me fue el wifi
-[20:14:11] [Server thread/INFO]: [Not Secure] <jdbyjennie> quien falta ve
-[20:14:12] [Server thread/INFO]: [Not Secure] <Mateoo__95> a dormir juntitos
-[20:14:17] [Server thread/INFO]: [Not Secure] <Mateoo__95> ay como antes
-[20:14:18] [Server thread/INFO]: [Not Secure] <ceboforever> bueno maricones empezamos
-[20:14:23] [Server thread/INFO]: [Not Secure] <Mateoo__95> a dormir juntitos
-[20:14:26] [Server thread/INFO]: [Not Secure] <ceboforever> quien me puso lava
-[20:14:27] [Server thread/INFO]: [Not Secure] <Mateoo__95> abraazditos
-[20:14:32] [Server thread/INFO]: [Not Secure] <Mateoo__95> a dormir juntitos
-[20:14:35] [Server thread/INFO]: [Not Secure] <Mateoo__95> SOTO
-[20:14:45] [Server thread/INFO]: [Not Secure] <ceboforever> les voy a hacer barra kill hps
-[20:15:02] [Server thread/INFO]: [Not Secure] <jdbyjennie> ?
-[20:15:04] [Server thread/INFO]: [Not Secure] <juanes> ?
-[20:15:11] [Server thread/INFO]: [Not Secure] <Mateoo__95> ?
-[20:15:18] [Server thread/INFO]: [Not Secure] <Mateoo__95> dormirrrrr
-[20:15:18] [Server thread/INFO]: [ceboforever: Kicked jdbyjennie: Kicked by an operator]
-[20:15:18] [Server thread/INFO]: jdbyjennie lost connection: Kicked by an operator
-[20:15:18] [Server thread/INFO]: jdbyjennie left the game
-[20:15:22] [Server thread/INFO]: [Not Secure] <juanes> salganse
-[20:15:32] [Server thread/INFO]: [Not Secure] <juanes> seba salte
-[20:15:44] [Server thread/INFO]: jdbyjennie[/100.111.152.95:57169] logged in with entity id 13547 at (-212.5, 63.5625, 559.5)
-[20:15:44] [Server thread/INFO]: jdbyjennie joined the game
-[20:16:01] [Server thread/INFO]: ceboforever was slain by Zombie
-[20:16:11] [Server thread/INFO]: [Not Secure] <ceboforever> quien quito mi puta cama
-[20:16:21] [Server thread/INFO]: [Not Secure] <Mateoo__95> van a dormir hey?
-[20:16:55] [Server thread/INFO]: [Not Secure] <Mateoo__95> duermnaaananana
-[20:17:21] [Server thread/WARN]: jdbyjennie moved too quickly! 8.629750284776378,-3.99434747727247,3.5071080657477296
-[20:18:06] [Server thread/INFO]: juanes was slain by Iron Golem
-[20:18:33] [Server thread/INFO]: [Not Secure] <juanes> seba las botas
-[20:18:39] [Server thread/INFO]: [Not Secure] <juanes> atras
-[20:18:56] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
-[20:18:56] [Server thread/INFO]: jdbyjennie left the game
-[20:19:04] [Server thread/INFO]: jdbyjennie[/100.111.152.95:57217] logged in with entity id 16002 at (-206.61795000529415, 63.0, 559.4093275165985)
-[20:19:04] [Server thread/INFO]: jdbyjennie joined the game
-[20:20:32] [Server thread/INFO]: [Not Secure] <ceboforever> pidieron guerra
-[20:20:53] [Server thread/INFO]: [Not Secure] <ceboforever> y guerra tendran hps
-[20:21:02] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
-[20:21:02] [Server thread/INFO]: jdbyjennie left the game
-[20:21:30] [Server thread/INFO]: [Not Secure] <ceboforever> ey se llevaron todo
-[20:21:41] [Server thread/INFO]: [Not Secure] <ceboforever> son pesados
-[20:21:53] [Server thread/INFO]: [Not Secure] <Mateoo__95> quien?
-[20:21:57] [Server thread/INFO]: [Not Secure] <ceboforever> tate
-[20:22:06] [Server thread/INFO]: [Not Secure] <ceboforever> les voy a explotar todo
-[20:22:25] [Server thread/INFO]: [Not Secure] <ceboforever> se llevaron los arboles rosados
-[20:22:53] [Server thread/INFO]: [ceboforever: Banned jdbyjennie: Banned by an operator.]
-[20:22:59] [Server thread/INFO]: Disconnecting jdbyjennie (/100.111.152.95:57350): You are banned from this server.
-Reason: Banned by an operator.
-[20:22:59] [Server thread/INFO]: jdbyjennie (/100.111.152.95:57350) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[20:22:59] [Server thread/WARN]: handleDisconnection() called twice
-[20:23:16] [Server thread/INFO]: Mateoo__95 was blown up by Creeper
-[20:23:26] [Server thread/INFO]: Disconnecting jdbyjennie (/100.111.152.95:57355): You are banned from this server.
-Reason: Banned by an operator.
-[20:23:26] [Server thread/INFO]: jdbyjennie (/100.111.152.95:57355) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[20:23:26] [Server thread/WARN]: handleDisconnection() called twice
-[20:23:50] [Server thread/INFO]: juanes lost connection: Disconnected
-[20:23:50] [Server thread/INFO]: juanes left the game
-[20:25:45] [Server thread/INFO]: juanes[/100.93.159.78:49266] logged in with entity id 20433 at (-216.75964954657772, 63.0, 559.3921578479681)
-[20:25:45] [Server thread/INFO]: juanes joined the game
-[20:26:38] [Server thread/INFO]: juanes lost connection: Disconnected
-[20:26:38] [Server thread/INFO]: juanes left the game
+[21:10:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:10:44] [ServerMain/INFO]: Loaded 1290 recipes
+[21:10:44] [ServerMain/INFO]: Loaded 1399 advancements
+[21:10:45] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:10:45] [Server thread/INFO]: Loading properties
+[21:10:45] [Server thread/INFO]: Default game type: SURVIVAL
+[21:10:45] [Server thread/INFO]: Generating keypair
+[21:10:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:10:45] [Server thread/INFO]: Using epoll channel type
+[21:10:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:10:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:10:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:10:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:10:45] [Server thread/INFO]: Preparing level "world"
+[21:10:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:10:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:10:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:10:51] [Server thread/INFO]: Time elapsed: 661 ms
+[21:10:51] [Server thread/INFO]: Done (6.161s)! For help, type "help"
+[21:10:58] [Server thread/INFO]: ceboforever[/100.101.49.9:53887] logged in with entity id 1 at (-700.6999999880791, 100.0, 961.7828767877103)
+[21:10:59] [Server thread/INFO]: ceboforever joined the game
+[21:12:20] [Server thread/INFO]: [ceboforever: Set the time to 1000]
+[21:12:41] [Server thread/INFO]: jdbyjennie[/100.111.152.95:58237] logged in with entity id 650 at (-1239.916889275356, 66.0, 666.1066142616617)
+[21:12:41] [Server thread/INFO]: jdbyjennie joined the game
+[21:12:55] [Server thread/INFO]: juanes[/100.93.159.78:50181] logged in with entity id 927 at (-1242.7854741579977, 65.0, 664.1389644555081)
+[21:12:55] [Server thread/INFO]: juanes joined the game
+[21:15:54] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[21:15:54] [Server thread/INFO]: jdbyjennie left the game
+[21:16:43] [Server thread/INFO]: jdbyjennie[/100.111.152.95:58265] logged in with entity id 2598 at (-1242.2791332895406, 62.90399891797057, 666.029462151822)
+[21:16:43] [Server thread/INFO]: jdbyjennie joined the game
