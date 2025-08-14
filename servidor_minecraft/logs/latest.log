@@ -1,32 +1,38 @@
-[18:42:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:42:44] [ServerMain/INFO]: Loaded 1290 recipes
-[18:42:44] [ServerMain/INFO]: Loaded 1399 advancements
-[18:42:45] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:42:45] [Server thread/INFO]: Loading properties
-[18:42:45] [Server thread/INFO]: Default game type: SURVIVAL
-[18:42:45] [Server thread/INFO]: Generating keypair
-[18:42:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:42:46] [Server thread/INFO]: Using epoll channel type
-[18:42:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:42:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:42:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:42:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:42:46] [Server thread/INFO]: Preparing level "world"
-[18:42:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:42:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:42:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:42:55] [Server thread/INFO]: Time elapsed: 671 ms
-[18:42:55] [Server thread/INFO]: Done (9.320s)! For help, type "help"
-[18:43:03] [Server thread/INFO]: juanes[/100.93.159.78:65188] logged in with entity id 1 at (-409.95233607882807, -52.0, 552.7807142911626)
-[18:43:03] [Server thread/INFO]: juanes joined the game
-[18:43:04] [Server thread/INFO]: jdbyjennie[/100.111.152.95:63799] logged in with entity id 2 at (-414.2723469578218, -52.0, 551.151998163431)
-[18:43:04] [Server thread/INFO]: jdbyjennie joined the game
-[18:44:17] [Server thread/INFO]: juanes has made the advancement [Sneak 100]
-[18:45:42] [Server thread/INFO]: jdbyjennie has made the advancement [Diamonds!]
-[18:49:15] [Server thread/INFO]: Mateoo__95[/100.85.150.119:52697] logged in with entity id 1277 at (-735.4641577206094, -15.0, 978.6999999880791)
-[18:49:15] [Server thread/INFO]: Mateoo__95 joined the game
-[18:49:26] [Server thread/INFO]: ceboforever[/100.101.49.9:52601] logged in with entity id 1530 at (-373.258355276162, 104.0, 778.9626684726127)
-[18:49:27] [Server thread/INFO]: ceboforever joined the game
-[18:49:45] [Server thread/INFO]: [Not Secure] <ceboforever> llego el que sabe
-[18:52:27] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[18:52:27] [Server thread/INFO]: ceboforever left the game
+[19:18:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:18:34] [ServerMain/INFO]: Loaded 1290 recipes
+[19:18:35] [ServerMain/INFO]: Loaded 1399 advancements
+[19:18:35] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:18:35] [Server thread/INFO]: Loading properties
+[19:18:35] [Server thread/INFO]: Default game type: SURVIVAL
+[19:18:35] [Server thread/INFO]: Generating keypair
+[19:18:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:18:36] [Server thread/INFO]: Using epoll channel type
+[19:18:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:18:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:18:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:18:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:18:36] [Server thread/INFO]: Preparing level "world"
+[19:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:45] [Server thread/INFO]: Time elapsed: 826 ms
+[19:18:45] [Server thread/INFO]: Done (9.407s)! For help, type "help"
+[19:18:45] [Server thread/INFO]: juanes (/100.93.159.78:65383) lost connection: Disconnected
+[19:18:49] [Server thread/INFO]: jdbyjennie[/100.111.152.95:52590] logged in with entity id 1 at (-259.35397908934976, 107.0, 630.5050465442146)
+[19:18:49] [Server thread/INFO]: jdbyjennie joined the game
+[19:18:50] [Server thread/INFO]: juanes[/100.93.159.78:65392] logged in with entity id 2 at (-247.83126423747223, 96.17675927506424, 582.8629079548195)
+[19:18:50] [Server thread/INFO]: juanes joined the game
+[19:18:54] [Server thread/INFO]: Mateoo__95[/100.85.150.119:52986] logged in with entity id 179 at (-775.4612175735756, -12.0, 850.8883063581258)
+[19:18:54] [Server thread/INFO]: Mateoo__95 joined the game
+[19:19:13] [Server thread/WARN]: UUID of added entity already exists: cgn['Armadillo'/580, l='ServerLevel[world]', x=-79.99, y=106.00, z=563.99]
+[19:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3100ms or 62 ticks behind
+[19:20:49] [Server thread/INFO]: [Not Secure] <jdbyjennie> xaero-waypoint:GILDARYS  PORTAL:G:-258:106:624:4:false:0:Internal-overworld-waypoints
+[19:22:33] [Server thread/INFO]: juanes has made the advancement [We Need to Go Deeper]
+[19:23:22] [Server thread/INFO]: jdbyjennie has made the advancement [We Need to Go Deeper]
+[19:26:13] [Server thread/INFO]: Mateoo__95 has made the advancement [Not Today, Thank You]
+[19:27:53] [Server thread/INFO]: juanes lost connection: Disconnected
+[19:27:53] [Server thread/INFO]: juanes left the game
+[19:36:35] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[19:36:35] [Server thread/INFO]: jdbyjennie left the game
+[19:38:18] [Server thread/INFO]: ceboforever[/100.101.49.9:52834] logged in with entity id 6627 at (-375.0760825435859, 99.0, 741.3228253623912)
+[19:38:18] [Server thread/INFO]: ceboforever joined the game

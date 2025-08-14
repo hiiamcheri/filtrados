@@ -448,6 +448,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-14 14:42:31 +0000",
       "apple": "2025-08-14 14:40:26 +0000",
+      "cooked_chicken": "2025-08-14 18:58:50 +0000",
       "cooked_mutton": "2025-08-14 15:19:45 +0000",
       "cooked_beef": "2025-08-14 01:38:21 +0000",
       "melon_slice": "2025-08-14 01:52:32 +0000"
@@ -989,27 +990,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-08-14 18:51:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-08-14 18:51:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 18:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-08-14 18:51:31 +0000"
     },
     "done": true
   },
@@ -1070,6 +1053,36 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-14 18:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-14 18:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-14 18:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-14 18:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-14 18:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-14 18:57:37 +0000"
     },
     "done": true
   },
