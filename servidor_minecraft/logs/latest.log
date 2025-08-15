@@ -20,3 +20,4 @@
 [03:48:07] [Server thread/INFO]: ceboforever[/100.101.49.9:50615] logged in with entity id 1 at (-796.9817462879278, 94.0, 760.6564836393677)
 [03:48:07] [Server thread/INFO]: ceboforever joined the game
 [03:55:53] [Server thread/INFO]: ceboforever has made the advancement [We Need to Go Deeper]
+[03:59:21] [Server thread/WARN]: UUID of added entity already exists: cfj['Chicken'/3524, l='ServerLevel[world]', x=-1681.88, y=80.00, z=203.76]

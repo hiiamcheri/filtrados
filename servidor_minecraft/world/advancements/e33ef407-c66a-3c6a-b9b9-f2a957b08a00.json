@@ -7,14 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-08-15 03:54:58 +0000",
       "minecraft:savanna_plateau": "2025-08-14 01:29:20 +0000",
+      "minecraft:snowy_slopes": "2025-08-15 03:54:32 +0000",
+      "minecraft:beach": "2025-08-15 03:58:08 +0000",
       "minecraft:forest": "2025-08-14 01:30:43 +0000",
-      "minecraft:cherry_grove": "2025-08-14 02:01:42 +0000",
       "minecraft:river": "2025-08-14 01:47:29 +0000",
-      "minecraft:meadow": "2025-08-14 15:04:18 +0000",
       "minecraft:stony_shore": "2025-08-14 01:15:57 +0000",
+      "minecraft:ocean": "2025-08-15 03:55:40 +0000",
+      "minecraft:cherry_grove": "2025-08-14 02:01:42 +0000",
+      "minecraft:meadow": "2025-08-14 15:04:18 +0000",
       "minecraft:savanna": "2025-08-14 01:11:16 +0000",
-      "minecraft:plains": "2025-08-14 01:57:41 +0000"
+      "minecraft:plains": "2025-08-14 01:57:41 +0000",
+      "minecraft:jagged_peaks": "2025-08-15 03:54:30 +0000"
     },
     "done": false
   },
@@ -1489,6 +1494,26 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-08-14 22:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-15 03:55:56 +0000",
+      "minecraft:nether_wastes": "2025-08-15 03:55:54 +0000",
+      "minecraft:soul_sand_valley": "2025-08-15 03:56:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-15 03:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-15 03:55:53 +0000"
     },
     "done": true
   },
