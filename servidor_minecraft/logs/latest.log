@@ -22,3 +22,7 @@
 [03:55:53] [Server thread/INFO]: ceboforever has made the advancement [We Need to Go Deeper]
 [03:59:21] [Server thread/WARN]: UUID of added entity already exists: cfj['Chicken'/3524, l='ServerLevel[world]', x=-1681.88, y=80.00, z=203.76]
 [04:09:55] [Server thread/INFO]: ceboforever has made the advancement [Diamonds!]
+[04:29:03] [Server thread/INFO]: [ceboforever: Set own game mode to Spectator Mode]
+[04:29:27] [Server thread/INFO]: [ceboforever: Set own game mode to Survival Mode]
+[04:29:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[04:31:52] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -808.500000, 95.500000, 768.500000]
