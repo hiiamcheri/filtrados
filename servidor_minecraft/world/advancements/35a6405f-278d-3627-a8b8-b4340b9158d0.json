@@ -16,6 +16,7 @@
       "minecraft:river": "2025-08-14 01:19:22 +0000",
       "minecraft:lukewarm_ocean": "2025-08-14 01:21:08 +0000",
       "minecraft:stony_shore": "2025-08-14 01:15:31 +0000",
+      "minecraft:dripstone_caves": "2025-08-17 06:03:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:48:29 +0000",
       "minecraft:deep_dark": "2025-08-14 01:56:49 +0000",
       "minecraft:ocean": "2025-08-14 20:59:16 +0000",
@@ -2137,6 +2138,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-17 05:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-17 06:07:32 +0000"
     },
     "done": true
   },

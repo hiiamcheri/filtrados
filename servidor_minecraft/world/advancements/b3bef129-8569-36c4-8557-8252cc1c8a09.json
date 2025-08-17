@@ -16,6 +16,7 @@
       "minecraft:river": "2025-08-14 01:19:24 +0000",
       "minecraft:lukewarm_ocean": "2025-08-14 01:21:08 +0000",
       "minecraft:stony_shore": "2025-08-14 01:20:44 +0000",
+      "minecraft:dripstone_caves": "2025-08-17 06:02:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:48:18 +0000",
       "minecraft:deep_dark": "2025-08-14 18:30:35 +0000",
       "minecraft:ocean": "2025-08-14 20:58:59 +0000",
@@ -259,6 +260,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-17 06:12:01 +0000",
       "mutton": "2025-08-17 05:51:44 +0000",
       "bread": "2025-08-14 01:26:09 +0000",
       "cooked_mutton": "2025-08-17 05:48:06 +0000",
