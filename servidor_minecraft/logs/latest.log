@@ -1,21 +1,32 @@
-[23:33:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:33:59] [ServerMain/INFO]: Loaded 1290 recipes
-[23:33:59] [ServerMain/INFO]: Loaded 1399 advancements
-[23:34:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[23:34:00] [Server thread/INFO]: Loading properties
-[23:34:00] [Server thread/INFO]: Default game type: SURVIVAL
-[23:34:00] [Server thread/INFO]: Generating keypair
-[23:34:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:34:00] [Server thread/INFO]: Using epoll channel type
-[23:34:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:34:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:34:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:34:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:34:00] [Server thread/INFO]: Preparing level "world"
-[23:34:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:34:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:34:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[23:34:10] [Server thread/INFO]: Time elapsed: 658 ms
-[23:34:10] [Server thread/INFO]: Done (9.092s)! For help, type "help"
-[23:36:21] [Server thread/INFO]: Mateoo__95[/100.85.150.119:51908] logged in with entity id 2 at (-1983.0148570943036, 24.0, 63.285230025948536)
-[23:36:21] [Server thread/INFO]: Mateoo__95 joined the game
+[04:56:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:56:11] [ServerMain/INFO]: Loaded 1290 recipes
+[04:56:11] [ServerMain/INFO]: Loaded 1399 advancements
+[04:56:12] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:56:12] [Server thread/INFO]: Loading properties
+[04:56:12] [Server thread/INFO]: Default game type: SURVIVAL
+[04:56:12] [Server thread/INFO]: Generating keypair
+[04:56:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:56:12] [Server thread/INFO]: Using epoll channel type
+[04:56:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:56:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:56:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:56:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:56:12] [Server thread/INFO]: Preparing level "world"
+[04:56:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:56:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:56:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:56:19] [Server thread/INFO]: Time elapsed: 772 ms
+[04:56:19] [Server thread/INFO]: Done (6.993s)! For help, type "help"
+[04:56:30] [Server thread/INFO]: ceboforever[/100.90.199.108:50234] logged in with entity id 2 at (-795.5801134382699, 94.0, 772.5803082025359)
+[04:56:30] [Server thread/INFO]: ceboforever joined the game
+[05:01:43] [Server thread/INFO]: juanes[/100.93.159.78:64940] logged in with entity id 878 at (-171.1507442832843, 63.0, 597.6393466627017)
+[05:01:43] [Server thread/INFO]: juanes joined the game
+[05:03:52] [Server thread/INFO]: [Not Secure] <ceboforever> ojala no sea yo
+[05:04:04] [Server thread/INFO]: [Not Secure] <ceboforever> juanes sirveme de intermediario
+[05:04:13] [Server thread/INFO]: [Not Secure] <ceboforever> que yo si me lo detono
+[05:04:30] [Server thread/INFO]: [Not Secure] <ceboforever> lee bien care vg
+[05:04:44] [Server thread/INFO]: [Not Secure] <juanes> no se leer en minecarft JAJQAJA
+[05:04:47] [Server thread/INFO]: [Not Secure] <ceboforever> hace una hora perra
+[05:04:52] [Server thread/INFO]: [Not Secure] <juanes> ES PURO CUADRADO
+[05:05:11] [Server thread/INFO]: [Not Secure] <ceboforever> que coja algo el primero
+[05:05:27] [Server thread/INFO]: [Not Secure] <ceboforever> dilo juanes
