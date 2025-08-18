@@ -31,3 +31,38 @@
 [19:21:08] [Server thread/INFO]: jdbyjennie joined the game
 [19:21:15] [Server thread/INFO]: juanes[/100.93.159.78:62436] logged in with entity id 3118 at (-2481.3131910505376, 66.0, 3453.9768758435694)
 [19:21:15] [Server thread/INFO]: juanes joined the game
+[19:30:03] [Server thread/INFO]: juanes lost connection: Disconnected
+[19:30:03] [Server thread/INFO]: juanes left the game
+[19:30:12] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
+[19:30:12] [Server thread/INFO]: Mateoo__95 left the game
+[19:30:12] [Server thread/INFO]: juanes[/100.93.159.78:62491] logged in with entity id 7089 at (-2527.8700424074846, 39.0, 3421.308228006153)
+[19:30:12] [Server thread/INFO]: juanes joined the game
+[19:33:19] [Server thread/INFO]: Mateoo__95[/100.85.150.119:49692] logged in with entity id 7742 at (-129.30000001192093, 53.0, -46.43082780346663)
+[19:33:19] [Server thread/INFO]: Mateoo__95 joined the game
+[19:35:16] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[19:35:16] [Server thread/INFO]: jdbyjennie left the game
+[19:35:45] [Server thread/INFO]: jdbyjennie[/100.111.152.95:58695] logged in with entity id 8505 at (-2578.064540063091, 71.0, 3509.9793741735834)
+[19:35:45] [Server thread/INFO]: jdbyjennie joined the game
+[19:37:05] [Server thread/INFO]: juanes lost connection: Disconnected
+[19:37:05] [Server thread/INFO]: juanes left the game
+[19:37:12] [Server thread/INFO]: juanes[/100.93.159.78:62521] logged in with entity id 9282 at (-2588.018739327976, 69.0, 3512.1830686323015)
+[19:37:12] [Server thread/INFO]: juanes joined the game
+[19:39:12] [Server thread/WARN]: jdbyjennie moved too quickly! -6.097369757580964,-2.227688487544981,7.9367223111180465
+[19:40:57] [Server thread/INFO]: [Not Secure] <juanes> zz
+[19:40:57] [Server thread/INFO]: [Not Secure] <juanes> zz
+[19:40:57] [Server thread/INFO]: [Not Secure] <juanes> z
+[19:40:58] [Server thread/INFO]: [Not Secure] <juanes> z
+[19:40:59] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[19:40:59] [Server thread/INFO]: jdbyjennie left the game
+[19:41:08] [Server thread/INFO]: jdbyjennie[/100.111.152.95:58746] logged in with entity id 11673 at (-2814.563862887008, 65.0, 3530.4341057244133)
+[19:41:08] [Server thread/INFO]: jdbyjennie joined the game
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2796, y=107, z=3457} jd{x=-2797, y=107, z=3457}
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2796, y=107, z=3457} jd{x=-2797, y=107, z=3457}
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2798, y=107, z=3457} jd{x=-2797, y=107, z=3457}
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2799, y=107, z=3458} jd{x=-2797, y=107, z=3457}
+[19:41:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2800, y=107, z=3458} jd{x=-2797, y=107, z=3457}
+[19:44:08] [Server thread/INFO]: jdbyjennie lost connection: Timed out
+[19:44:08] [Server thread/INFO]: jdbyjennie left the game
+[19:44:09] [Server thread/WARN]: handleDisconnection() called twice
+[19:44:33] [Server thread/INFO]: jdbyjennie[/100.111.152.95:53571] logged in with entity id 12880 at (-2768.5613544179073, 117.0, 3457.747866847509)
+[19:44:33] [Server thread/INFO]: jdbyjennie joined the game
