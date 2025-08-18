@@ -23,7 +23,8 @@
       "minecraft:sunflower_plains": "2025-08-14 20:53:03 +0000",
       "minecraft:meadow": "2025-08-14 20:19:23 +0000",
       "minecraft:savanna": "2025-08-14 01:15:34 +0000",
-      "minecraft:plains": "2025-08-14 01:56:00 +0000"
+      "minecraft:plains": "2025-08-14 01:56:00 +0000",
+      "minecraft:jagged_peaks": "2025-08-18 03:43:30 +0000"
     },
     "done": false
   },
@@ -1787,15 +1788,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_glass": "2025-08-17 05:59:26 +0000"
+      "has_smelts_to_glass": "2025-08-17 05:56:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_flint": "2025-08-17 06:11:00 +0000"
+      "has_sand": "2025-08-17 05:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-17 05:59:26 +0000"
     },
     "done": true
   },
@@ -1832,18 +1839,6 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-17 05:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-08-17 06:11:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-08-17 05:56:04 +0000"
     },
     "done": true
   },
@@ -1889,12 +1884,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-08-17 05:56:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-17 05:59:26 +0000"
@@ -1916,6 +1905,72 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-17 05:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-17 06:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-17 06:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-08-18 03:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-18 03:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-18 03:45:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-18 03:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-18 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-18 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-18 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-18 03:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-18 03:52:30 +0000"
     },
     "done": true
   },
