@@ -22,6 +22,7 @@
       "minecraft:ocean": "2025-08-14 20:58:59 +0000",
       "minecraft:jungle": "2025-08-17 05:41:36 +0000",
       "minecraft:cherry_grove": "2025-08-14 19:47:30 +0000",
+      "minecraft:sunflower_plains": "2025-08-18 20:38:24 +0000",
       "minecraft:meadow": "2025-08-14 18:16:59 +0000",
       "minecraft:birch_forest": "2025-08-17 05:47:16 +0000",
       "minecraft:savanna": "2025-08-14 01:17:16 +0000",
@@ -264,15 +265,16 @@
     "criteria": {
       "cooked_porkchop": "2025-08-17 06:12:01 +0000",
       "mutton": "2025-08-17 05:51:44 +0000",
-      "apple": "2025-08-18 20:09:22 +0000",
       "bread": "2025-08-14 01:26:09 +0000",
       "rotten_flesh": "2025-08-17 06:23:12 +0000",
       "cooked_mutton": "2025-08-17 05:48:06 +0000",
-      "potato": "2025-08-14 21:51:11 +0000",
       "beef": "2025-08-14 01:23:32 +0000",
       "baked_potato": "2025-08-18 19:01:39 +0000",
       "melon_slice": "2025-08-14 18:46:48 +0000",
       "golden_carrot": "2025-08-17 05:36:00 +0000",
+      "apple": "2025-08-18 20:09:22 +0000",
+      "potato": "2025-08-14 21:51:11 +0000",
+      "cod": "2025-08-18 20:34:35 +0000",
       "carrot": "2025-08-14 21:41:02 +0000"
     },
     "done": false
@@ -2259,15 +2261,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-18 19:59:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-08-18 19:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-18 19:59:24 +0000"
     },
     "done": true
   },
@@ -2307,33 +2309,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-08-18 20:11:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 19:59:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-08-18 20:11:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 19:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-08-18 20:11:22 +0000"
     },
     "done": true
   },
@@ -2367,21 +2351,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-08-18 20:11:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 19:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-08-18 20:11:22 +0000"
     },
     "done": true
   },
@@ -2403,6 +2375,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-18 20:11:22 +0000"
@@ -2412,6 +2414,54 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-18 20:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-18 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-08-18 20:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-18 20:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-18 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-18 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-18 20:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-18 20:36:02 +0000"
     },
     "done": true
   },
