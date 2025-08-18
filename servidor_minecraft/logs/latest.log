@@ -1,143 +1,21 @@
-[03:16:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:16:15] [ServerMain/INFO]: Loaded 1290 recipes
-[03:16:16] [ServerMain/INFO]: Loaded 1399 advancements
-[03:16:17] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:16:17] [Server thread/INFO]: Loading properties
-[03:16:17] [Server thread/INFO]: Default game type: SURVIVAL
-[03:16:17] [Server thread/INFO]: Generating keypair
-[03:16:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:16:17] [Server thread/INFO]: Using epoll channel type
-[03:16:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:16:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:16:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:16:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:16:17] [Server thread/INFO]: Preparing level "world"
-[03:16:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:16:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:24] [Server thread/INFO]: Time elapsed: 1092 ms
-[03:16:24] [Server thread/INFO]: Done (7.585s)! For help, type "help"
-[03:17:08] [Server thread/INFO]: ceboforever[/100.101.49.9:50885] logged in with entity id 2 at (-809.7041147913653, 95.0, 772.5582517620751)
-[03:17:08] [Server thread/INFO]: ceboforever joined the game
-[03:19:17] [Server thread/INFO]: Mateoo__95[/100.85.150.119:55497] logged in with entity id 464 at (-1788.395257098117, 55.0, -97.86038143101852)
-[03:19:17] [Server thread/INFO]: Mateoo__95 joined the game
-[03:20:25] [Server thread/INFO]: ceboforever has made the advancement [Ice Bucket Challenge]
-[03:22:20] [Server thread/INFO]: [Not Secure] <ceboforever> xaero-waypoint:Casa:C:-809:95:768:6:false:0:Internal-overworld-waypoints
-[03:30:20] [Server thread/INFO]: [Not Secure] <Mateoo__95> xaero-waypoint:CASA ACTUAL:C:-1965:61:-20:10:false:0:Internal-overworld-waypoints
-[03:37:54] [Server thread/WARN]: Mateoo__95 moved too quickly! -3.0682800719930583,-5.407395402364941,7.960125324444846
-[03:40:29] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
-[03:40:29] [Server thread/INFO]: Mateoo__95 left the game
-[03:40:32] [Server thread/INFO]: Mateoo__95[/100.85.150.119:55717] logged in with entity id 10955 at (-793.3858344432568, 94.0, 758.7841808569335)
-[03:40:32] [Server thread/INFO]: Mateoo__95 joined the game
-[03:43:45] [Server thread/WARN]: Mateoo__95 moved too quickly! -10.0183387553177,-1.7967356006687112,0.5435186980288336
-[03:45:46] [Server thread/INFO]: Mateoo__95 has made the advancement [We Need to Go Deeper]
-[03:52:09] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[03:52:09] [Server thread/INFO]: ceboforever left the game
-[03:52:14] [Server thread/INFO]: ceboforever[/100.101.49.9:51043] logged in with entity id 16849 at (-792.3590067898928, 94.0, 755.238655477094)
-[03:52:14] [Server thread/INFO]: ceboforever joined the game
-[03:52:55] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[03:52:55] [Server thread/INFO]: ceboforever left the game
-[03:52:59] [Server thread/INFO]: ceboforever[/100.101.49.9:51056] logged in with entity id 17288 at (-782.4227547736075, 93.0, 763.6202063585184)
-[03:52:59] [Server thread/INFO]: ceboforever joined the game
-[04:03:58] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:03:58] [Server thread/INFO]: ceboforever left the game
-[04:04:16] [Server thread/INFO]: ceboforever[/100.101.49.9:51097] logged in with entity id 21840 at (-591.2856725338551, 78.0, 771.3000000119209)
-[04:04:16] [Server thread/INFO]: ceboforever joined the game
-[04:15:27] [Server thread/WARN]: Oak Boat (vehicle of Mateoo__95) moved too quickly! 9.616866703141795,0.0,3.9576089220204267
-[04:15:27] [Server thread/WARN]: Oak Boat (vehicle of Mateoo__95) moved too quickly! 9.986812232921011,0.0,4.109687456364952
-[04:15:27] [Server thread/WARN]: Oak Boat (vehicle of Mateoo__95) moved too quickly! 10.356759341978204,0.0,4.261762662927168
-[04:15:27] [Server thread/WARN]: Oak Boat (vehicle of Mateoo__95) moved too quickly! 10.726707872385532,0.0,4.413834874485389
-[04:15:27] [Server thread/WARN]: Oak Boat (vehicle of Mateoo__95) moved too quickly! 11.096657682007844,0.0,4.565904390540084
-[04:15:27] [Server thread/WARN]: Oak Boat (vehicle of Mateoo__95) moved too quickly! 11.466608642923802,0.0,4.7179714806416655
-[04:16:12] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:16:12] [Server thread/INFO]: ceboforever left the game
-[04:16:17] [Server thread/INFO]: ceboforever[/100.101.49.9:51158] logged in with entity id 27427 at (-559.5883675030099, 8.0, 697.5607541515883)
-[04:16:17] [Server thread/INFO]: ceboforever joined the game
-[04:17:48] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
-[04:17:48] [Server thread/INFO]: Mateoo__95 left the game
-[04:18:11] [Server thread/INFO]: Mateoo__95[/100.85.150.119:56080] logged in with entity id 28538 at (-1125.6664295993844, 78.0, 406.097061021203)
-[04:18:11] [Server thread/INFO]: Mateoo__95 joined the game
-[04:19:57] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:19:57] [Server thread/INFO]: ceboforever left the game
-[04:20:10] [Server thread/INFO]: ceboforever[/100.101.49.9:51184] logged in with entity id 29688 at (-532.5359966160967, 6.0, 688.566309048603)
-[04:20:10] [Server thread/INFO]: ceboforever joined the game
-[04:28:23] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:28:23] [Server thread/INFO]: ceboforever left the game
-[04:28:29] [Server thread/INFO]: ceboforever[/100.101.49.9:51223] logged in with entity id 32613 at (-502.69999998807907, 7.0, 699.3000000119209)
-[04:28:29] [Server thread/INFO]: ceboforever joined the game
-[04:28:31] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:28:31] [Server thread/INFO]: ceboforever left the game
-[04:28:47] [Server thread/INFO]: ceboforever[/100.101.49.9:51233] logged in with entity id 32915 at (-502.69999998807907, 7.0, 699.3000000119209)
-[04:28:47] [Server thread/INFO]: ceboforever joined the game
-[04:28:49] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:28:49] [Server thread/INFO]: ceboforever left the game
-[04:29:06] [Server thread/INFO]: ceboforever[/100.101.49.9:51243] logged in with entity id 33193 at (-502.69999998807907, 7.0, 699.3000000119209)
-[04:29:06] [Server thread/INFO]: ceboforever joined the game
-[04:29:07] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:29:07] [Server thread/INFO]: ceboforever left the game
-[04:29:16] [Server thread/INFO]: ceboforever[/100.101.49.9:51253] logged in with entity id 33435 at (-502.69999998807907, 7.0, 699.3000000119209)
-[04:29:16] [Server thread/INFO]: ceboforever joined the game
-[04:35:55] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
-[04:35:55] [Server thread/INFO]: Mateoo__95 left the game
-[04:36:14] [Server thread/INFO]: Mateoo__95[/100.85.150.119:56220] logged in with entity id 35988 at (-1358.5030935170537, 74.0, 151.09264147135178)
-[04:36:14] [Server thread/INFO]: Mateoo__95 joined the game
-[04:37:35] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
-[04:37:35] [Server thread/INFO]: Mateoo__95 left the game
-[04:37:44] [Server thread/INFO]: Mateoo__95[/100.85.150.119:56254] logged in with entity id 36966 at (-1610.6174147741435, 72.0, 142.53796803351793)
-[04:37:44] [Server thread/INFO]: Mateoo__95 joined the game
-[04:39:16] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:39:16] [Server thread/INFO]: ceboforever left the game
-[04:39:32] [Server thread/INFO]: ceboforever[/100.101.49.9:51317] logged in with entity id 38297 at (-569.9700077228484, 96.0, 715.2163340463741)
-[04:39:32] [Server thread/INFO]: ceboforever joined the game
-[04:39:52] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:39:52] [Server thread/INFO]: ceboforever left the game
-[04:39:59] [Server thread/INFO]: ceboforever[/100.101.49.9:51327] logged in with entity id 38664 at (-555.7998682676521, 99.0, 720.6821263486984)
-[04:39:59] [Server thread/INFO]: ceboforever joined the game
-[04:40:08] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[04:40:08] [Server thread/INFO]: ceboforever left the game
-[04:40:53] [Server thread/INFO]: ceboforever[/100.101.49.9:51338] logged in with entity id 39059 at (-555.3000000119209, 99.0, 719.8161377293435)
-[04:40:53] [Server thread/INFO]: ceboforever joined the game
-[04:47:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
-[04:48:34] [Server thread/INFO]: [Not Secure] <ceboforever> xaero-waypoint:portal casa:Ps:-88:88:107:7:false:0:Internal-the-nether-waypoints
-[05:13:24] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[05:13:24] [Server thread/INFO]: ceboforever left the game
-[05:16:57] [Server thread/INFO]: ceboforever[/100.101.49.9:51547] logged in with entity id 51765 at (-809.7351656049185, 69.0, 826.6822318143762)
-[05:16:57] [Server thread/INFO]: ceboforever joined the game
-[05:17:14] [Server thread/INFO]: [Not Secure] <Mateoo__95> habla
-[05:17:20] [Server thread/INFO]: [Not Secure] <ceboforever> ocupado
-[05:17:27] [Server thread/INFO]: [Not Secure] <Mateoo__95> te pegan
-[05:18:39] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[05:18:39] [Server thread/INFO]: ceboforever left the game
-[05:27:00] [Server thread/INFO]: ceboforever[/100.101.49.9:51594] logged in with entity id 53610 at (-810.2407156229049, 94.0, 756.656037061023)
-[05:27:00] [Server thread/INFO]: ceboforever joined the game
-[05:30:55] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[05:30:55] [Server thread/INFO]: ceboforever left the game
-[05:38:40] [Server thread/INFO]: ceboforever[/100.101.49.9:51646] logged in with entity id 56456 at (-807.1066674137472, 95.0, 770.5665232801587)
-[05:38:40] [Server thread/INFO]: ceboforever joined the game
-[05:39:36] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
-[05:39:36] [Server thread/INFO]: Mateoo__95 left the game
-[05:39:44] [Server thread/INFO]: Mateoo__95[/100.85.150.119:56895] logged in with entity id 57134 at (-1112.1983434248114, 71.0, 243.60244865266813)
-[05:39:44] [Server thread/INFO]: Mateoo__95 joined the game
-[06:03:06] [Server thread/INFO]: [Not Secure] <Mateoo__95> Aa dormir juntitos
-[06:15:52] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[06:15:52] [Server thread/INFO]: ceboforever left the game
-[06:16:09] [Server thread/INFO]: ceboforever[/100.101.49.9:51800] logged in with entity id 71309 at (-816.5187490961811, 95.0, 786.2629599920338)
-[06:16:09] [Server thread/INFO]: ceboforever joined the game
-[06:26:51] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[06:26:51] [Server thread/INFO]: ceboforever left the game
-[06:26:55] [Server thread/INFO]: ceboforever[/100.101.49.9:51843] logged in with entity id 74724 at (-791.9526342258991, 94.875, 753.5)
-[06:26:55] [Server thread/INFO]: ceboforever joined the game
-[06:42:46] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[06:42:46] [Server thread/INFO]: ceboforever left the game
-[06:42:57] [Server thread/INFO]: ceboforever[/100.101.49.9:51903] logged in with entity id 80099 at (-789.9949861086329, 94.0, 750.8276498555967)
-[06:42:57] [Server thread/INFO]: ceboforever joined the game
-[06:42:59] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[06:42:59] [Server thread/INFO]: ceboforever left the game
-[06:43:30] [Server thread/INFO]: ceboforever[/100.101.49.9:51924] logged in with entity id 80367 at (-789.9949861086329, 94.0, 750.8276498555967)
-[06:43:30] [Server thread/INFO]: ceboforever joined the game
-[06:46:13] [Server thread/INFO]: [Not Secure] <Mateoo__95> xaero-waypoint:MI HOGAR 2.0:M:-1114:71:244:9:false:0:Internal-overworld-waypoints
-[06:54:02] [Server thread/INFO]: [Not Secure] <Mateoo__95> xd
-[06:55:27] [Server thread/INFO]: [Not Secure] <ceboforever> ./violar mateo__95
-[07:00:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1051, y=69, z=201} jd{x=-1050, y=68, z=201}
-[07:03:04] [Server thread/INFO]: ceboforever has made the advancement [Hot Stuff]
+[17:58:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:58:23] [ServerMain/INFO]: Loaded 1290 recipes
+[17:58:23] [ServerMain/INFO]: Loaded 1399 advancements
+[17:58:24] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:58:24] [Server thread/INFO]: Loading properties
+[17:58:24] [Server thread/INFO]: Default game type: SURVIVAL
+[17:58:24] [Server thread/INFO]: Generating keypair
+[17:58:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:58:24] [Server thread/INFO]: Using epoll channel type
+[17:58:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:58:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:58:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:58:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:58:24] [Server thread/INFO]: Preparing level "world"
+[17:58:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:58:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:58:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:58:33] [Server thread/INFO]: Time elapsed: 678 ms
+[17:58:33] [Server thread/INFO]: Done (9.331s)! For help, type "help"
+[18:02:25] [Server thread/INFO]: Mateoo__95[/100.85.150.119:59058] logged in with entity id 2 at (-1243.4313037402396, 63.0, 663.6178765866711)
+[18:02:25] [Server thread/INFO]: Mateoo__95 joined the game
