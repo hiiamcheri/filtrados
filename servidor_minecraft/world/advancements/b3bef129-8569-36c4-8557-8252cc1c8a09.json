@@ -126,6 +126,7 @@
       "minecraft:cave_spider": "2025-08-14 02:05:25 +0000",
       "minecraft:skeleton": "2025-08-14 01:39:34 +0000",
       "minecraft:piglin": "2025-08-14 21:40:00 +0000",
+      "minecraft:witch": "2025-08-18 20:11:22 +0000",
       "minecraft:spider": "2025-08-14 01:32:39 +0000",
       "minecraft:zombie": "2025-08-14 02:04:25 +0000",
       "minecraft:drowned": "2025-08-14 01:19:32 +0000",
@@ -263,6 +264,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-17 06:12:01 +0000",
       "mutton": "2025-08-17 05:51:44 +0000",
+      "apple": "2025-08-18 20:09:22 +0000",
       "bread": "2025-08-14 01:26:09 +0000",
       "rotten_flesh": "2025-08-17 06:23:12 +0000",
       "cooked_mutton": "2025-08-17 05:48:06 +0000",
@@ -2305,15 +2307,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 19:59:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 19:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
     },
     "done": true
   },
@@ -2347,9 +2367,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 19:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
     },
     "done": true
   },
@@ -2368,6 +2400,18 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-18 19:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-18 20:11:22 +0000"
     },
     "done": true
   },
