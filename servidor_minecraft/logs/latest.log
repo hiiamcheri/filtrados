@@ -27,3 +27,10 @@
 [21:39:25] [Server thread/INFO]: ceboforever left the game
 [21:39:44] [Server thread/INFO]: ceboforever[/100.101.49.9:50366] logged in with entity id 5587 at (-814.9295585803138, 95.0, 767.8851588819084)
 [21:39:44] [Server thread/INFO]: ceboforever joined the game
+[21:47:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-784, y=92, z=778} jd{x=-730, y=87, z=783}
+[21:50:51] [Server thread/INFO]: [ceboforever: Successfully filled 1495 block(s)]
+[21:50:56] [Server thread/INFO]: [ceboforever: Set own game mode to Adventure Mode]
+[21:50:57] [Server thread/INFO]: [ceboforever: Set own game mode to Spectator Mode]
+[21:51:05] [Server thread/INFO]: [ceboforever: Set own game mode to Survival Mode]
+[21:53:08] [Server thread/INFO]: [ceboforever: Successfully filled 3285 block(s)]
+[21:54:36] [Server thread/INFO]: [ceboforever: Successfully filled 987 block(s)]
