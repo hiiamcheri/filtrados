@@ -786,7 +786,8 @@
       "minecraft:spider": "2025-08-14 18:24:58 +0000",
       "minecraft:piglin_brute": "2025-08-18 19:06:59 +0000",
       "minecraft:zombie": "2025-08-14 18:24:37 +0000",
-      "minecraft:zombie_villager": "2025-08-14 20:21:16 +0000"
+      "minecraft:zombie_villager": "2025-08-14 20:21:16 +0000",
+      "minecraft:hoglin": "2025-08-18 19:49:11 +0000"
     },
     "done": false
   },
@@ -2568,6 +2569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-18 19:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-18 19:43:18 +0000"
@@ -2592,6 +2599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-18 19:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-18 19:43:18 +0000"
@@ -2601,6 +2614,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-18 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-18 19:48:14 +0000"
     },
     "done": true
   },
