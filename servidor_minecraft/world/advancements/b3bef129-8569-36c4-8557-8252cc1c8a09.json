@@ -277,6 +277,7 @@
       "melon_slice": "2025-08-14 18:46:48 +0000",
       "golden_carrot": "2025-08-17 05:36:00 +0000",
       "apple": "2025-08-18 20:09:22 +0000",
+      "cooked_chicken": "2025-08-19 03:57:33 +0000",
       "potato": "2025-08-14 21:51:11 +0000",
       "cooked_cod": "2025-08-19 00:00:44 +0000",
       "cod": "2025-08-18 20:34:35 +0000",
@@ -2739,6 +2740,42 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-08-19 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-19 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-19 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-19 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-19 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-19 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-19 04:00:17 +0000"
     },
     "done": true
   },
