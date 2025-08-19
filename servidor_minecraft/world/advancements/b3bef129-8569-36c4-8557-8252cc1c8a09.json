@@ -276,6 +276,8 @@
       "potato": "2025-08-14 21:51:11 +0000",
       "cooked_cod": "2025-08-19 00:00:44 +0000",
       "cod": "2025-08-18 20:34:35 +0000",
+      "cooked_salmon": "2025-08-19 01:28:01 +0000",
+      "pumpkin_pie": "2025-08-19 01:56:27 +0000",
       "carrot": "2025-08-14 21:41:02 +0000"
     },
     "done": false
@@ -2499,6 +2501,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-08-19 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-19 01:43:17 +0000"
     },
     "done": true
   },

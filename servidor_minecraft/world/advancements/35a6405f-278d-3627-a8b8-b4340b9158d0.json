@@ -23,6 +23,7 @@
       "minecraft:ocean": "2025-08-14 20:59:16 +0000",
       "minecraft:jungle": "2025-08-17 05:41:50 +0000",
       "minecraft:cherry_grove": "2025-08-14 19:47:36 +0000",
+      "minecraft:sunflower_plains": "2025-08-19 01:31:35 +0000",
       "minecraft:meadow": "2025-08-14 18:23:20 +0000",
       "minecraft:birch_forest": "2025-08-17 05:47:24 +0000",
       "minecraft:savanna": "2025-08-14 01:12:21 +0000",
@@ -2537,7 +2538,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-19 01:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-19 01:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-19 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-19 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-08-19 01:21:39 +0000"
     },
@@ -2549,27 +2574,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_logs": "2025-08-19 01:06:22 +0000"
+      "has_chicken": "2025-08-19 01:30:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_black_wool": "2025-08-19 01:21:39 +0000"
+      "has_chicken": "2025-08-19 01:30:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_log": "2025-08-19 01:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-08-19 01:21:39 +0000"
+      "has_chicken": "2025-08-19 01:30:14 +0000"
     },
     "done": true
   },
