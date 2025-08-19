@@ -135,7 +135,9 @@
       "minecraft:enderman": "2025-08-19 02:45:14 +0000",
       "minecraft:spider": "2025-08-14 01:32:39 +0000",
       "minecraft:zombie": "2025-08-14 02:04:25 +0000",
-      "minecraft:drowned": "2025-08-14 01:19:32 +0000"
+      "minecraft:creeper": "2025-08-19 04:13:33 +0000",
+      "minecraft:drowned": "2025-08-14 01:19:32 +0000",
+      "minecraft:slime": "2025-08-19 04:12:34 +0000"
     },
     "done": false
   },
@@ -2755,9 +2757,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-19 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-19 04:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-08-19 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-19 04:25:12 +0000"
     },
     "done": true
   },
@@ -2776,6 +2796,30 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-19 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-19 04:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-19 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-19 04:12:37 +0000"
     },
     "done": true
   },
