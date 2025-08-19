@@ -2881,12 +2881,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-08-19 03:53:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-08-19 03:42:59 +0000"
@@ -2917,15 +2911,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_netherite_scrap": "2025-08-19 04:36:17 +0000"
+      "has_emerald_block": "2025-08-19 03:53:14 +0000"
     },
     "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-08-19 04:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-19 04:36:17 +0000"
     },
     "done": true
   },
