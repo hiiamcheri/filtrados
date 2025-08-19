@@ -2623,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-08-19 08:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-08-19 07:58:22 +0000"
