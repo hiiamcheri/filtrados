@@ -782,6 +782,7 @@
       "minecraft:spider": "2025-08-14 21:44:43 +0000",
       "minecraft:zombie": "2025-08-14 14:14:09 +0000",
       "minecraft:creeper": "2025-08-19 08:34:22 +0000",
+      "minecraft:drowned": "2025-08-19 21:42:57 +0000",
       "minecraft:zombie_villager": "2025-08-19 07:51:51 +0000",
       "minecraft:ghast": "2025-08-19 02:25:40 +0000",
       "minecraft:hoglin": "2025-08-19 02:12:20 +0000"
@@ -2765,12 +2766,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-08-19 21:07:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-19 20:56:38 +0000"
@@ -2801,12 +2796,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-08-19 21:04:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-08-19 20:56:38 +0000"
@@ -2822,6 +2811,18 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-19 20:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-19 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-19 21:07:34 +0000"
     },
     "done": true
   },
