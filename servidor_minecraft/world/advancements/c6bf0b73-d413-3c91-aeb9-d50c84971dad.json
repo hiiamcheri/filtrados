@@ -2840,15 +2840,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_book": "2025-08-19 03:55:31 +0000"
+      "has_stone_slab": "2025-08-19 03:47:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-08-19 03:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-19 03:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-19 03:55:31 +0000"
     },
     "done": true
   },
@@ -2861,18 +2873,6 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-19 03:55:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-08-19 03:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-08-19 03:47:04 +0000"
     },
     "done": true
   },
