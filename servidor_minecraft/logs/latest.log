@@ -20,3 +20,11 @@
 [05:32:26] [Server thread/INFO]: juanes[/100.93.159.78:55756] logged in with entity id 2 at (-3046.6309911049375, 21.76636799395752, 3289.699999988079)
 [05:32:26] [Server thread/INFO]: juanes joined the game
 [05:34:32] [Server thread/WARN]: UUID of added entity already exists: cff['Bee'/812, l='ServerLevel[world]', x=-2975.89, y=108.26, z=3528.31]
+[05:47:38] [Server thread/INFO]: jdbyjennie[/100.111.152.95:63797] logged in with entity id 3720 at (-463.43187768478685, 24.782921103128903, 297.3134937129443)
+[05:47:38] [Server thread/INFO]: jdbyjennie joined the game
+[05:47:42] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[05:47:42] [Server thread/INFO]: jdbyjennie left the game
+[05:50:35] [Server thread/INFO]: jdbyjennie[/100.111.152.95:63819] logged in with entity id 4132 at (-463.43187768478685, 23.702911337503917, 297.3134937129443)
+[05:50:35] [Server thread/INFO]: jdbyjennie joined the game
+[05:50:39] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[05:50:39] [Server thread/INFO]: jdbyjennie left the game
