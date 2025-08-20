@@ -1,67 +1,21 @@
-[19:44:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:44:07] [ServerMain/INFO]: Loaded 1290 recipes
-[19:44:07] [ServerMain/INFO]: Loaded 1399 advancements
-[19:44:08] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:44:08] [Server thread/INFO]: Loading properties
-[19:44:08] [Server thread/INFO]: Default game type: SURVIVAL
-[19:44:08] [Server thread/INFO]: Generating keypair
-[19:44:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:44:08] [Server thread/INFO]: Using epoll channel type
-[19:44:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:44:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:44:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:44:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:44:08] [Server thread/INFO]: Preparing level "world"
-[19:44:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:44:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:44:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:44:17] [Server thread/INFO]: Time elapsed: 618 ms
-[19:44:17] [Server thread/INFO]: Done (9.077s)! For help, type "help"
-[19:44:21] [Server thread/INFO]: ceboforever[/100.101.49.9:50807] logged in with entity id 2 at (-801.3785406563106, 94.0, 774.1295252312703)
-[19:44:21] [Server thread/INFO]: ceboforever joined the game
-[19:47:05] [Server thread/INFO]: [ceboforever: Summoned new Villager]
-[19:47:31] [Server thread/INFO]: Villager cmk['Librarian'/458, l='ServerLevel[world]', x=-816.24, y=95.00, z=767.69] died, message: 'Librarian was slain by ceboforever'
-[19:47:46] [Server thread/INFO]: [ceboforever: Set own game mode to Creative Mode]
-[19:47:56] [Server thread/INFO]: [ceboforever: Summoned new Zombie Villager]
-[19:51:46] [Server thread/INFO]: [ceboforever: Set own game mode to Survival Mode]
-[19:56:14] [Server thread/INFO]: [ceboforever: Set own game mode to Creative Mode]
-[20:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7032ms or 140 ticks behind
-[20:03:32] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -808.500000, 95.500000, 768.500000]
-[20:05:24] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -1113.500000, 71.500000, 244.500000]
-[20:08:45] [Server thread/WARN]: ceboforever moved too quickly! 2.337380285561977,0.0,-9.742916761471038
-[20:14:07] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -118.500000, 91.500000, 108.500000]
-[20:14:34] [Server thread/INFO]: [ceboforever: Set own game mode to Survival Mode]
-[20:15:39] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[20:15:39] [Server thread/INFO]: ceboforever left the game
-[20:22:18] [Server thread/INFO]: ceboforever[/100.101.49.9:51014] logged in with entity id 7323 at (-814.8786010147513, 95.0, 768.9651131222975)
-[20:22:18] [Server thread/INFO]: ceboforever joined the game
-[20:59:15] [Server thread/INFO]: [ceboforever: Set own game mode to Spectator Mode]
-[20:59:59] [Server thread/INFO]: [ceboforever: Applied effect Night Vision to ceboforever]
-[21:00:17] [Server thread/INFO]: [ceboforever: Set own game mode to Survival Mode]
-[21:05:31] [Server thread/INFO]: [ceboforever: Teleported ceboforever to -808.500000, 95.500000, 768.500000]
-[21:06:04] [Server thread/INFO]: [ceboforever: Removed every effect from ceboforever]
-[21:06:41] [Server thread/INFO]: [ceboforever: Applied effect Luck to ceboforever]
-[21:07:34] [Server thread/INFO]: ceboforever has made the advancement [Cover Me with Diamonds]
-[21:24:10] [Server thread/INFO]: [ceboforever: Set the time to 13000]
-[21:29:37] [Server thread/INFO]: [ceboforever: Summoned new Pig]
-[21:29:41] [Server thread/INFO]: [ceboforever: Summoned new Pig]
-[21:29:43] [Server thread/INFO]: [ceboforever: Summoned new Pig]
-[21:29:46] [Server thread/INFO]: [Not Secure] <ceboforever> t/summon pig
-[21:29:48] [Server thread/INFO]: [ceboforever: Summoned new Pig]
-[21:29:50] [Server thread/INFO]: [ceboforever: Summoned new Pig]
-[21:29:51] [Server thread/INFO]: [ceboforever: Summoned new Pig]
-[21:38:35] [Server thread/INFO]: [ceboforever: Gave 60 [Steak] to ceboforever]
-[21:39:09] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[21:39:09] [Server thread/INFO]: ceboforever left the game
-[21:40:01] [Server thread/INFO]: ceboforever[/100.101.49.9:51299] logged in with entity id 19837 at (-943.6999999880791, 79.0, 748.0931943858312)
-[21:40:01] [Server thread/INFO]: ceboforever joined the game
-[21:44:45] [Server thread/INFO]: [ceboforever: Applied effect Night Vision to ceboforever]
-[21:45:08] [Server thread/INFO]: [ceboforever: Applied effect Night Vision to ceboforever]
-[21:46:38] [Server thread/INFO]: ceboforever lost connection: Disconnected
-[21:46:38] [Server thread/INFO]: ceboforever left the game
-[21:46:44] [Server thread/INFO]: ceboforever[/100.101.49.9:51352] logged in with entity id 21751 at (-1453.3075668355805, 2.0, 605.3000000119209)
-[21:46:44] [Server thread/INFO]: ceboforever joined the game
-[21:49:09] [Server thread/INFO]: [ceboforever: Applied effect Absorption to ceboforever]
-[21:53:27] [Server thread/INFO]: [ceboforever: Applied effect Health Boost to ceboforever]
-[21:53:51] [Server thread/INFO]: [ceboforever: Applied effect Absorption to ceboforever]
-[21:54:20] [Server thread/INFO]: [ceboforever: Applied effect Strength to ceboforever]
+[00:37:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:37:54] [ServerMain/INFO]: Loaded 1290 recipes
+[00:37:55] [ServerMain/INFO]: Loaded 1399 advancements
+[00:37:55] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:37:55] [Server thread/INFO]: Loading properties
+[00:37:55] [Server thread/INFO]: Default game type: SURVIVAL
+[00:37:55] [Server thread/INFO]: Generating keypair
+[00:37:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:37:55] [Server thread/INFO]: Using epoll channel type
+[00:37:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:37:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:37:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:37:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:37:56] [Server thread/INFO]: Preparing level "world"
+[00:38:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:38:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:38:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[00:38:02] [Server thread/INFO]: Time elapsed: 743 ms
+[00:38:02] [Server thread/INFO]: Done (6.549s)! For help, type "help"
+[00:41:59] [Server thread/INFO]: Mateoo__95[/100.85.150.119:62900] logged in with entity id 2 at (-1107.5956511282238, 75.0, 243.01121072957918)
+[00:41:59] [Server thread/INFO]: Mateoo__95 joined the game
