@@ -782,6 +782,7 @@
       "minecraft:cave_spider": "2025-08-16 23:40:52 +0000",
       "minecraft:skeleton": "2025-08-14 19:26:22 +0000",
       "minecraft:piglin": "2025-08-18 19:18:34 +0000",
+      "minecraft:zombified_piglin": "2025-08-20 01:06:25 +0000",
       "minecraft:enderman": "2025-08-18 06:18:03 +0000",
       "minecraft:spider": "2025-08-14 18:24:58 +0000",
       "minecraft:piglin_brute": "2025-08-18 19:06:59 +0000",
@@ -2891,6 +2892,42 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-08-19 04:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 00:43:56 +0000"
     },
     "done": true
   },
