@@ -35,3 +35,9 @@
 [19:07:24] [Server thread/INFO]: [Not Secure] <juanes> Z
 [19:07:24] [Server thread/INFO]: [Not Secure] <juanes> ZZZ
 [19:17:35] [Server thread/INFO]: [Not Secure] <juanes> juanes
+[19:28:45] [Server thread/INFO]: jdbyjennie[/100.111.152.95:49943] logged in with entity id 23575 at (-463.43187768478685, 23.0, 297.3134937129443)
+[19:28:45] [Server thread/INFO]: jdbyjennie joined the game
+[19:28:47] [Server thread/INFO]: jdbyjennie tried to swim in lava
+[19:35:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-442, y=89, z=917} jd{x=-442, y=87, z=918}
+[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-398, y=97, z=827} jd{x=-399, y=95, z=827}
+[19:39:22] [Server thread/INFO]: jdbyjennie was shot by Skeleton
