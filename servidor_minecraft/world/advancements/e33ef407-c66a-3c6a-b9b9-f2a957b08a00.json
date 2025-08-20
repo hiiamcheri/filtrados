@@ -3418,5 +3418,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-20 17:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-08-20 17:53:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
