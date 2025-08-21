@@ -404,6 +404,7 @@
       "golden_apple": "2025-08-14 18:34:21 +0000",
       "bread": "2025-08-14 19:04:35 +0000",
       "honey_bottle": "2025-08-19 04:24:41 +0000",
+      "suspicious_stew": "2025-08-21 02:54:55 +0000",
       "cooked_mutton": "2025-08-17 05:46:11 +0000",
       "cooked_beef": "2025-08-14 01:26:12 +0000",
       "beef": "2025-08-14 01:19:13 +0000",
@@ -803,6 +804,7 @@
       "minecraft:cave_spider": "2025-08-14 02:05:34 +0000",
       "minecraft:piglin": "2025-08-19 04:30:45 +0000",
       "minecraft:breeze": "2025-08-19 03:00:24 +0000",
+      "minecraft:vindicator": "2025-08-21 03:08:14 +0000",
       "minecraft:enderman": "2025-08-14 18:52:14 +0000",
       "minecraft:spider": "2025-08-14 18:49:43 +0000",
       "minecraft:zombie": "2025-08-14 19:01:01 +0000",
@@ -3062,6 +3064,30 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-08-20 22:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-21 03:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-21 03:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-21 03:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-21 03:21:22 +0000"
     },
     "done": true
   },

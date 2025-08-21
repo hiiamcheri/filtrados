@@ -1,51 +1,49 @@
-[02:33:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:33:56] [ServerMain/INFO]: Loaded 1290 recipes
-[02:33:56] [ServerMain/INFO]: Loaded 1399 advancements
-[02:33:57] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:33:57] [Server thread/INFO]: Loading properties
-[02:33:57] [Server thread/INFO]: Default game type: SURVIVAL
-[02:33:57] [Server thread/INFO]: Generating keypair
-[02:33:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:33:57] [Server thread/INFO]: Using epoll channel type
-[02:33:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:33:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:33:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:33:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:33:57] [Server thread/INFO]: Preparing level "world"
-[02:34:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:34:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:34:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:34:07] [Server thread/INFO]: Time elapsed: 819 ms
-[02:34:07] [Server thread/INFO]: Done (9.614s)! For help, type "help"
-[02:41:24] [Server thread/INFO]: Mateoo__95[/100.85.150.119:53651] logged in with entity id 1 at (-718.6549503659543, 92.9375, 938.5530934423573)
-[02:41:24] [Server thread/INFO]: Mateoo__95 joined the game
-[02:48:57] [Server thread/INFO]: juanes[/100.93.159.78:63317] logged in with entity id 2041 at (-323.8135533551563, 49.0, 461.69999998807907)
-[02:48:57] [Server thread/INFO]: juanes joined the game
-[02:49:32] [Server thread/INFO]: jdbyjennie[/100.111.152.95:51375] logged in with entity id 2270 at (-2764.3369945789914, 117.0, 3454.773683853721)
-[02:49:32] [Server thread/INFO]: jdbyjennie joined the game
-[02:49:47] [Server thread/INFO]: [Not Secure] <jdbyjennie> mateo
-[02:49:53] [Server thread/INFO]: [Not Secure] <Mateoo__95> tiramelo
-[02:49:57] [Server thread/INFO]: [Not Secure] <jdbyjennie> dime que sentiste pechu porfavor
-[02:50:07] [Server thread/INFO]: [Not Secure] <Mateoo__95> ni me acerque
-[02:50:19] [Server thread/INFO]: [Not Secure] <jdbyjennie> pero el por defecto lo hace
-[02:50:42] [Server thread/INFO]: [Not Secure] <Mateoo__95> ps si
-[02:51:42] [Server thread/INFO]: Mateoo__95 has made the advancement [What a Deal!]
-[02:52:45] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
-[02:52:45] [Server thread/INFO]: Mateoo__95 left the game
-[02:53:24] [Server thread/INFO]: Mateoo__95[/100.85.150.119:53789] logged in with entity id 4879 at (-298.9352963814303, 86.0, 1202.844376751088)
-[02:53:24] [Server thread/INFO]: Mateoo__95 joined the game
-[02:53:53] [Server thread/INFO]: [Not Secure] <Mateoo__95> zczczc
-[02:53:54] [Server thread/INFO]: [Not Secure] <Mateoo__95> zc
-[02:53:54] [Server thread/INFO]: [Not Secure] <Mateoo__95> zc
-[02:53:55] [Server thread/INFO]: juanes lost connection: Disconnected
-[02:53:55] [Server thread/INFO]: juanes left the game
-[02:54:01] [Server thread/INFO]: juanes[/100.93.159.78:63354] logged in with entity id 5444 at (-2885.449050497076, 70.0, 3393.7464213197927)
-[02:54:01] [Server thread/INFO]: juanes joined the game
-[02:54:05] [Server thread/INFO]: [Not Secure] <Mateoo__95> zc
-[02:54:05] [Server thread/INFO]: [Not Secure] <Mateoo__95> zc
-[02:54:05] [Server thread/INFO]: [Not Secure] <Mateoo__95> zc
-[02:54:05] [Server thread/INFO]: [Not Secure] <jdbyjennie> zc
-[02:54:10] [Server thread/INFO]: juanes lost connection: Disconnected
-[02:54:10] [Server thread/INFO]: juanes left the game
-[02:54:13] [Server thread/INFO]: juanes[/100.93.159.78:63367] logged in with entity id 5652 at (-2871.8639843767523, 65.0, 3422.191787352731)
-[02:54:13] [Server thread/INFO]: juanes joined the game
+[03:17:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:17:21] [ServerMain/INFO]: Loaded 1290 recipes
+[03:17:21] [ServerMain/INFO]: Loaded 1399 advancements
+[03:17:21] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:17:21] [Server thread/INFO]: Loading properties
+[03:17:21] [Server thread/INFO]: Default game type: SURVIVAL
+[03:17:21] [Server thread/INFO]: Generating keypair
+[03:17:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:17:22] [Server thread/INFO]: Using epoll channel type
+[03:17:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:17:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:17:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:17:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:17:22] [Server thread/INFO]: Preparing level "world"
+[03:17:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:17:29] [Server thread/INFO]: Time elapsed: 1033 ms
+[03:17:29] [Server thread/INFO]: Done (6.805s)! For help, type "help"
+[03:18:12] [Server thread/INFO]: Mateoo__95[/100.85.150.119:54032] logged in with entity id 1 at (-142.52182064903567, 71.0, 70.52555023796877)
+[03:18:12] [Server thread/INFO]: Mateoo__95 joined the game
+[03:18:15] [Server thread/INFO]: jdbyjennie[/100.111.152.95:51453] logged in with entity id 121 at (-2784.660314456818, 113.0, 3439.197062220392)
+[03:18:15] [Server thread/INFO]: jdbyjennie joined the game
+[03:18:26] [Server thread/WARN]: UUID of added entity already exists: cfv['Pig'/376, l='ServerLevel[world]', x=-2810.50, y=64.00, z=3606.24]
+[03:18:31] [Server thread/WARN]: UUID of added entity already exists: chk['Horse'/422, l='ServerLevel[world]', x=-2575.98, y=72.00, z=3473.12]
+[03:19:23] [Server thread/INFO]: juanes[/100.93.159.78:61081] logged in with entity id 699 at (-2793.2493086258846, 112.0, 3448.1913983969007)
+[03:19:23] [Server thread/INFO]: juanes joined the game
+[03:19:34] [Server thread/INFO]: juanes lost connection: Disconnected
+[03:19:34] [Server thread/INFO]: juanes left the game
+[03:19:37] [Server thread/INFO]: juanes[/100.93.159.78:61094] logged in with entity id 758 at (-2766.3761046510117, 116.0, 3445.699999988079)
+[03:19:37] [Server thread/INFO]: juanes joined the game
+[03:19:37] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[03:19:37] [Server thread/INFO]: jdbyjennie left the game
+[03:19:40] [Server thread/INFO]: jdbyjennie[/100.111.152.95:51466] logged in with entity id 788 at (-2776.390715996597, 114.0, 3436.4937864747403)
+[03:19:40] [Server thread/INFO]: jdbyjennie joined the game
+[03:21:21] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
+[03:21:21] [Server thread/INFO]: Mateoo__95 left the game
+[03:21:22] [Server thread/INFO]: jdbyjennie has completed the challenge [Hero of the Village]
+[03:21:22] [Server thread/INFO]: juanes has completed the challenge [Hero of the Village]
+[03:21:45] [Server thread/WARN]: jdbyjennie moved wrongly!
+[03:21:50] [Server thread/INFO]: juanes lost connection: Disconnected
+[03:21:50] [Server thread/INFO]: juanes left the game
+[03:22:24] [Server thread/INFO]: juanes[/100.93.159.78:61115] logged in with entity id 1844 at (-2784.4323180326637, 116.0, 3448.4977086464155)
+[03:22:24] [Server thread/INFO]: juanes joined the game
+[03:25:36] [Server thread/INFO]: [Not Secure] <jdbyjennie> zc
+[03:25:57] [Server thread/INFO]: [Not Secure] <juanes> ZC
+[03:25:58] [Server thread/INFO]: [Not Secure] <juanes> ZC
+[03:25:58] [Server thread/INFO]: [Not Secure] <juanes> ZCZ
+[03:26:00] [Server thread/INFO]: [Not Secure] <juanes> CZ
