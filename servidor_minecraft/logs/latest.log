@@ -22,3 +22,5 @@
 [22:24:13] [Server thread/INFO]: Villager cmk['Villager'/55, l='ServerLevel[world]', x=-237.70, y=68.05, z=544.78] died, message: 'Villager drowned'
 [22:38:39] [Server thread/INFO]: [Not Secure] <Mateoo__95> 103 -18 233
 [22:54:24] [Server thread/INFO]: Mateoo__95 fell from a high place
+[22:58:14] [Server thread/WARN]: Mateoo__95 moved too quickly! 6.997505953825481,-0.9893499858739716,-7.241492898110636
+[22:59:11] [Server thread/WARN]: Mateoo__95 moved too quickly! 3.6929774559831685,-3.176759275064242,-8.858428101535026
