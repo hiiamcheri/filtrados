@@ -27,7 +27,8 @@
       "minecraft:birch_forest": "2025-08-20 16:26:10 +0000",
       "minecraft:savanna": "2025-08-14 01:15:34 +0000",
       "minecraft:plains": "2025-08-14 01:56:00 +0000",
-      "minecraft:jagged_peaks": "2025-08-18 03:43:30 +0000"
+      "minecraft:jagged_peaks": "2025-08-18 03:43:30 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-23 16:48:26 +0000"
     },
     "done": false
   },
@@ -801,6 +802,7 @@
       "minecraft:spider": "2025-08-14 18:24:58 +0000",
       "minecraft:piglin_brute": "2025-08-18 19:06:59 +0000",
       "minecraft:zombie": "2025-08-14 18:24:37 +0000",
+      "minecraft:drowned": "2025-08-23 16:47:53 +0000",
       "minecraft:zombie_villager": "2025-08-14 20:21:16 +0000"
     },
     "done": false
@@ -3607,6 +3609,42 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-21 03:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-23 17:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-23 16:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-23 16:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-23 16:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-23 17:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-23 17:01:18 +0000"
     },
     "done": true
   },
