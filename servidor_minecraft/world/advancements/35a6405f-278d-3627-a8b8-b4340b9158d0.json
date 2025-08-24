@@ -412,6 +412,7 @@
       "baked_potato": "2025-08-18 19:29:44 +0000",
       "melon_slice": "2025-08-14 18:15:34 +0000",
       "golden_carrot": "2025-08-14 21:44:52 +0000",
+      "apple": "2025-08-24 03:03:03 +0000",
       "cooked_chicken": "2025-08-19 03:25:14 +0000",
       "potato": "2025-08-14 21:43:44 +0000",
       "cooked_salmon": "2025-08-19 01:23:51 +0000",
@@ -807,6 +808,7 @@
       "minecraft:breeze": "2025-08-19 03:00:24 +0000",
       "minecraft:vindicator": "2025-08-21 03:08:14 +0000",
       "minecraft:enderman": "2025-08-14 18:52:14 +0000",
+      "minecraft:magma_cube": "2025-08-24 03:04:35 +0000",
       "minecraft:spider": "2025-08-14 18:49:43 +0000",
       "minecraft:zombie": "2025-08-14 19:01:01 +0000",
       "minecraft:creeper": "2025-08-18 20:12:12 +0000",
@@ -1330,9 +1332,10 @@
       "minecraft:crimson_forest": "2025-08-14 21:33:55 +0000",
       "minecraft:nether_wastes": "2025-08-14 19:22:35 +0000",
       "minecraft:soul_sand_valley": "2025-08-14 21:34:05 +0000",
-      "minecraft:warped_forest": "2025-08-19 05:20:43 +0000"
+      "minecraft:warped_forest": "2025-08-19 05:20:43 +0000",
+      "minecraft:basalt_deltas": "2025-08-24 03:04:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
@@ -3089,6 +3092,24 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-08-21 03:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-24 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-24 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-24 03:12:22 +0000"
     },
     "done": true
   },

@@ -31,3 +31,7 @@
 [02:58:40] [Server thread/INFO]: juanes[/100.93.159.78:57814] logged in with entity id 8776 at (-2923.0831553501653, 63.0, 3417.7447735268966)
 [02:58:40] [Server thread/INFO]: juanes joined the game
 [03:04:28] [Server thread/INFO]: juanes has completed the challenge [Hot Tourist Destinations]
+[03:11:07] [Server thread/INFO]: jdbyjennie has made the advancement [Local Brewery]
+[03:18:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2920, y=66, z=3440} jd{x=-2923, y=66, z=3440}
+[03:18:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2921, y=66, z=3442} jd{x=-2920, y=66, z=3441}
+[03:19:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2944, y=69, z=3441} jd{x=-2945, y=69, z=3441}
