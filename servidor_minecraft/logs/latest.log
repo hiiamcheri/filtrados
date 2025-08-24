@@ -1,28 +1,27 @@
-[22:16:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:16:05] [ServerMain/INFO]: Loaded 1290 recipes
-[22:16:05] [ServerMain/INFO]: Loaded 1399 advancements
-[22:16:06] [Server thread/INFO]: Starting minecraft server version 1.21
-[22:16:06] [Server thread/INFO]: Loading properties
-[22:16:06] [Server thread/INFO]: Default game type: SURVIVAL
-[22:16:06] [Server thread/INFO]: Generating keypair
-[22:16:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:16:06] [Server thread/INFO]: Using epoll channel type
-[22:16:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:16:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:16:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:16:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:16:07] [Server thread/INFO]: Preparing level "world"
-[22:16:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:16:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:16:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:16:13] [Server thread/INFO]: Time elapsed: 599 ms
-[22:16:13] [Server thread/INFO]: Done (6.398s)! For help, type "help"
-[22:17:46] [Server thread/INFO]: Mateoo__95[/100.85.150.119:62335] logged in with entity id 1 at (-224.80728556891958, 62.9375, 549.7666470137415)
-[22:17:46] [Server thread/INFO]: Mateoo__95 joined the game
-[22:24:13] [Server thread/INFO]: Villager cmk['Villager'/55, l='ServerLevel[world]', x=-237.70, y=68.05, z=544.78] died, message: 'Villager drowned'
-[22:38:39] [Server thread/INFO]: [Not Secure] <Mateoo__95> 103 -18 233
-[22:54:24] [Server thread/INFO]: Mateoo__95 fell from a high place
-[22:58:14] [Server thread/WARN]: Mateoo__95 moved too quickly! 6.997505953825481,-0.9893499858739716,-7.241492898110636
-[22:59:11] [Server thread/WARN]: Mateoo__95 moved too quickly! 3.6929774559831685,-3.176759275064242,-8.858428101535026
-[23:10:30] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
-[23:10:30] [Server thread/INFO]: Mateoo__95 left the game
+[02:44:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:44:32] [ServerMain/INFO]: Loaded 1290 recipes
+[02:44:33] [ServerMain/INFO]: Loaded 1399 advancements
+[02:44:33] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:44:33] [Server thread/INFO]: Loading properties
+[02:44:33] [Server thread/INFO]: Default game type: SURVIVAL
+[02:44:33] [Server thread/INFO]: Generating keypair
+[02:44:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:44:34] [Server thread/INFO]: Using epoll channel type
+[02:44:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:44:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:44:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:44:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:44:34] [Server thread/INFO]: Preparing level "world"
+[02:44:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:44:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:44:42] [Server thread/INFO]: Time elapsed: 759 ms
+[02:44:42] [Server thread/INFO]: Done (8.649s)! For help, type "help"
+[02:46:45] [Server thread/INFO]: juanes[/100.93.159.78:57755] logged in with entity id 3 at (-2785.3444497970086, 116.0, 3451.549264503971)
+[02:46:45] [Server thread/INFO]: juanes joined the game
+[02:47:10] [Server thread/INFO]: [Not Secure] <juanes> zc
+[02:47:11] [Server thread/INFO]: [Not Secure] <juanes> zcz
+[02:47:11] [Server thread/INFO]: [Not Secure] <juanes> czc
+[02:47:12] [Server thread/INFO]: [Not Secure] <juanes> z
+[02:47:43] [Server thread/INFO]: jdbyjennie[/100.111.152.95:63558] logged in with entity id 868 at (-2754.9770307250797, 112.0, 3426.036036200164)
+[02:47:43] [Server thread/INFO]: jdbyjennie joined the game
