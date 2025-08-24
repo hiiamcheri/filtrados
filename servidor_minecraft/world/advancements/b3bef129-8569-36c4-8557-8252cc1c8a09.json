@@ -17,6 +17,7 @@
       "minecraft:river": "2025-08-14 01:19:24 +0000",
       "minecraft:lukewarm_ocean": "2025-08-14 01:21:08 +0000",
       "minecraft:stony_shore": "2025-08-14 01:20:44 +0000",
+      "minecraft:lush_caves": "2025-08-24 04:27:02 +0000",
       "minecraft:dripstone_caves": "2025-08-17 06:02:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:48:18 +0000",
       "minecraft:deep_dark": "2025-08-14 18:30:35 +0000",
@@ -3149,6 +3150,36 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-08-24 04:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-24 04:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-24 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-24 04:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-24 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-24 04:40:38 +0000"
     },
     "done": true
   },

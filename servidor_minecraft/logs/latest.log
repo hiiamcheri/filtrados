@@ -72,3 +72,18 @@
 [04:12:05] [Server thread/WARN]: juanes moved too quickly! -9.465694441943924,2.0619874269930563,2.9840270047220656
 [04:12:05] [Server thread/WARN]: jdbyjennie moved too quickly! -9.973130950158975,1.2805907652762016,0.6074945903096705
 [04:12:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[04:16:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4418, y=81, z=3300} jd{x=-4418, y=81, z=3301}
+[04:16:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4418, y=81, z=3300} jd{x=-4418, y=81, z=3301}
+[04:16:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4421, y=77, z=3309} jd{x=-4421, y=76, z=3308}
+[04:16:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4421, y=77, z=3309} jd{x=-4421, y=76, z=3308}
+[04:16:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4421, y=77, z=3309} jd{x=-4421, y=76, z=3308}
+[04:16:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4421, y=77, z=3309} jd{x=-4421, y=76, z=3308}
+[04:16:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4421, y=77, z=3309} jd{x=-4421, y=76, z=3308}
+[04:16:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4421, y=77, z=3309} jd{x=-4421, y=76, z=3308}
+[04:16:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4421, y=77, z=3309} jd{x=-4421, y=76, z=3308}
+[04:24:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-4140, y=54, z=3484} jd{x=-4142, y=53, z=3483}
+[04:34:55] [Server thread/INFO]: juanes drowned
+[04:35:23] [Server thread/INFO]: juanes lost connection: Disconnected
+[04:35:23] [Server thread/INFO]: juanes left the game
+[04:37:49] [Server thread/INFO]: juanes[/100.93.159.78:58246] logged in with entity id 39157 at (-2768.279315887296, 117.875, 3453.6432172686605)
+[04:37:49] [Server thread/INFO]: juanes joined the game

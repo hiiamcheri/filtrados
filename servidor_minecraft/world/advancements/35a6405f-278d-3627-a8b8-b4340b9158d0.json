@@ -18,6 +18,7 @@
       "minecraft:river": "2025-08-14 01:19:22 +0000",
       "minecraft:lukewarm_ocean": "2025-08-14 01:21:08 +0000",
       "minecraft:stony_shore": "2025-08-14 01:15:31 +0000",
+      "minecraft:lush_caves": "2025-08-24 04:27:13 +0000",
       "minecraft:dripstone_caves": "2025-08-17 06:03:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:48:29 +0000",
       "minecraft:deep_dark": "2025-08-14 01:56:49 +0000",
@@ -3129,6 +3130,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-08-24 03:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-08-24 04:42:38 +0000"
     },
     "done": true
   },
