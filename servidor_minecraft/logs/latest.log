@@ -61,3 +61,14 @@
 [03:48:04] [Server thread/INFO]: jdbyjennie left the game
 [03:50:52] [Server thread/INFO]: jdbyjennie[/100.111.152.95:63707] logged in with entity id 23948 at (-120.29178871570468, 75.0, 248.79801016829208)
 [03:50:52] [Server thread/INFO]: jdbyjennie joined the game
+[04:07:38] [Server thread/INFO]: juanes lost connection: Disconnected
+[04:07:38] [Server thread/INFO]: juanes left the game
+[04:08:53] [Server thread/INFO]: jdbyjennie lost connection: Disconnected
+[04:08:53] [Server thread/INFO]: jdbyjennie left the game
+[04:09:23] [Server thread/INFO]: juanes[/100.93.159.78:58121] logged in with entity id 27778 at (-3080.4971460904867, 96.0, 3492.9946275518023)
+[04:09:23] [Server thread/INFO]: juanes joined the game
+[04:09:30] [Server thread/INFO]: jdbyjennie[/100.111.152.95:63750] logged in with entity id 28045 at (-3100.490825303046, 90.0, 3492.8848096232705)
+[04:09:30] [Server thread/INFO]: jdbyjennie joined the game
+[04:12:05] [Server thread/WARN]: juanes moved too quickly! -9.465694441943924,2.0619874269930563,2.9840270047220656
+[04:12:05] [Server thread/WARN]: jdbyjennie moved too quickly! -9.973130950158975,1.2805907652762016,0.6074945903096705
+[04:12:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
