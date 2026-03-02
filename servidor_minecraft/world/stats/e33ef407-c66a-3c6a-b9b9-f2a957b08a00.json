@@ -1,0 +1,94 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:tall_grass": 3,
+      "minecraft:open_eyeblossom": 1,
+      "minecraft:dirt": 2,
+      "minecraft:grass_block": 4,
+      "minecraft:bamboo": 1,
+      "minecraft:short_grass": 4,
+      "minecraft:pale_oak_log": 2,
+      "minecraft:fern": 1,
+      "minecraft:oak_leaves": 3,
+      "minecraft:crafting_table": 2,
+      "minecraft:cornflower": 1,
+      "minecraft:leaf_litter": 2,
+      "minecraft:oak_log": 7,
+      "minecraft:jungle_log": 4,
+      "minecraft:jungle_leaves": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:white_bed": 1,
+      "minecraft:stick": 4,
+      "minecraft:jungle_planks": 16,
+      "minecraft:oak_boat": 1,
+      "minecraft:orange_dye": 1,
+      "minecraft:oak_planks": 24,
+      "minecraft:wooden_sword": 1,
+      "minecraft:crafting_table": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:pale_moss_carpet": 12,
+      "minecraft:pale_oak_log": 4,
+      "minecraft:dirt": 18,
+      "minecraft:open_eyeblossom": 1,
+      "minecraft:stick": 3,
+      "minecraft:wooden_sword": 1,
+      "minecraft:white_wool": 7,
+      "minecraft:jungle_planks": 24,
+      "minecraft:crafting_table": 2,
+      "minecraft:orange_dye": 1,
+      "minecraft:leaf_litter": 13,
+      "minecraft:oak_log": 7,
+      "minecraft:wheat_seeds": 3,
+      "minecraft:mutton": 10,
+      "minecraft:jungle_log": 4
+    },
+    "minecraft:broken": {
+      "minecraft:wooden_sword": 1
+    },
+    "minecraft:used": {
+      "minecraft:crafting_table": 3,
+      "minecraft:wooden_sword": 55,
+      "minecraft:egg": 1,
+      "minecraft:oak_boat": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 6714,
+      "minecraft:walk_one_cm": 58958,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 1527,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 509,
+      "minecraft:boat_one_cm": 29207,
+      "minecraft:play_time": 30063,
+      "minecraft:damage_dealt": 301,
+      "minecraft:jump": 562,
+      "minecraft:time_since_death": 6682,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 87557,
+      "minecraft:fall_one_cm": 11649,
+      "minecraft:total_world_time": 30063,
+      "minecraft:swim_one_cm": 20754,
+      "minecraft:fly_one_cm": 54281,
+      "minecraft:walk_on_water_one_cm": 5269,
+      "minecraft:crouch_one_cm": 2617,
+      "minecraft:sneak_time": 617,
+      "minecraft:climb_one_cm": 1811,
+      "minecraft:deaths": 2
+    },
+    "minecraft:killed": {
+      "minecraft:sheep": 3
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:zombie": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:leaf_litter": 1
+    }
+  },
+  "DataVersion": 4671
+}
